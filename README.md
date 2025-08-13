@@ -1,1 +1,1 @@
-# divyansh-projectjuet
+# divyansh_project_juet
